@@ -1,7 +1,3 @@
-Voici le fichier `README.md` corrigé avec un formatage optimisé pour GitHub, tout en respectant la structure que tu as décrite. J'ai ajusté les sections pour une meilleure lisibilité.
-
----
-
 # Lyra - Serveur Minecraft Mini-Jeux
 
 🎮 **Lyra** est un serveur Minecraft mini-jeux entièrement personnalisé, conçu pour offrir une **expérience unique** aux joueurs. Ce projet a été développé **de A à Z en Java**, avec un **Spigot customisé** et des configurations **multi-proxy** sur mesure pour garantir des performances optimales et un gameplay fluide.
