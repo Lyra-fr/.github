@@ -63,5 +63,3 @@ Pour toute question, suggestion ou retour, rejoignez notre **serveur Discord** :
 Ce projet est sous licence **MIT**. Consultez le fichier [LICENSE](LICENSE) pour plus de détails.
 
 --- 
-
-Ce `README.md` est maintenant bien structuré pour GitHub et facilite la lecture. Tu peux le personnaliser davantage si nécessaire ! 😊
