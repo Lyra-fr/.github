@@ -13,7 +13,8 @@ Voici le fichier `README.md` corrigé avec un formatage optimisé pour GitHub, t
 - **Mini-jeux exclusifs** : Des jeux innovants développés sur mesure pour divertir et challenger la communauté.
 - **Spigot custom** : Un Spigot personnalisé pour des **performances améliorées**, des optimisations spécifiques et un **PvP optimisé** spécialement pour Lyra.
 - **Multi-Bungee (Multi-Lynx)** : Gestion avancée du réseau grâce à une configuration **BungeeCord** personnalisée.
-- **Économie et progression** : Système de gestion de comptes avec des **monnaies, rangs, statistiques** et plus encore.
+- **Économie et progression** : Système de gestion de comptes avec des **monnaies, profiles, look (cosmétiques), préférences, rangs, statistiques et bien d'autres** et plus encore.
+- **Cosmétiques avancés** : Divers cosmétiques pour modifier le look des joueurs !
 
 ---
 
@@ -28,7 +29,7 @@ Voici le fichier `README.md` corrigé avec un formatage optimisé pour GitHub, t
   Le système **Lynx** gère les proxys pour répartir efficacement les joueurs avec une optimisation pour la **masse de joueurs**, le multi-threading, et la performance.
 
 - **LoadBalancer (Custom)** :  
-  Gestion dynamique des serveurs avec des **serveurs à la demande**.
+  Gestion dynamique des serveurs (**Serveur à la demande**).
 
 - **Githus** :  
   Transfert automatique des **repositories** pour tous les développeurs.
@@ -37,10 +38,10 @@ Voici le fichier `README.md` corrigé avec un formatage optimisé pour GitHub, t
   Utilisé pour la **communication inter-serveur** et la gestion des **files d'attente**.
 
 - **Redis** :  
-  Système de **cache haute performance** pour la gestion des sessions et des données temporaires (connecté à **MongoDB**).
+  Système de **cache haute performance** pour la gestion des sessions et des données temporaires (relié à **MongoDB**).
 
 - **MongoDB** :  
-  Base de données **NoSQL** pour stocker toutes les informations des joueurs, les statistiques, etc. (connecté à **Redis**).
+  Base de données **NoSQL** pour stocker toutes les informations de Lyra, etc. (relié à **Redis**).
 
 ---
 
