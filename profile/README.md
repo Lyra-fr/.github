@@ -8,7 +8,7 @@
 
 - **Mini-jeux exclusifs** : Des jeux innovants développés sur mesure pour divertir et challenger la communauté.
 - **Spigot custom** : Un Spigot personnalisé pour des **performances améliorées**, des optimisations spécifiques et un **PvP optimisé** spécialement pour Lyra.
-- **Multi-Bungee (Multi-Lynx)** : Gestion avancée du réseau grâce à une configuration **BungeeCord** personnalisée.
+- **Multi-Bungee** : Gestion avancée du réseau grâce à une configuration **BungeeCord** personnalisée.
 - **Économie et progression** : Système de gestion de comptes avec des **monnaies, profiles, look (cosmétiques), préférences, rangs, statistiques et bien d'autres** et plus encore.
 - **Cosmétiques avancés** : Divers cosmétiques pour modifier le look des joueurs !
 
@@ -21,9 +21,6 @@
 - **Spigot (custom)** :  
   Le **LyraSpigot** est optimisé pour la **masse de joueurs**, la performance, le **PvP 1.8** avec un **Knockback custom**, un PvP asynchrone, et le **multi-threading**.
 
-- **BungeeCord (custom)** :  
-  Le système **Lynx** gère les proxys pour répartir efficacement les joueurs avec une optimisation pour la **masse de joueurs**, le multi-threading, et la performance.
-
 - **LoadBalancer (Custom)** :  
   Gestion dynamique des serveurs (**Serveur à la demande**).
 
@@ -31,10 +28,10 @@
   Transfert automatique des **repositories** pour tous les développeurs.
 
 - **RabbitMQ** :  
-  Utilisé pour la **communication inter-serveur** et la gestion des **files d'attente**.
+  Utilisé pour la gestion des **files d'attente**.
 
 - **Redis** :  
-  Système de **cache haute performance** pour la gestion des sessions et des données temporaires (relié à **MongoDB**).
+  Système de **cache haute performance** pour la des données temporaires (relié à **MongoDB**).
 
 - **MongoDB** :  
   Base de données **NoSQL** pour stocker toutes les informations de Lyra, etc. (relié à **Redis**).
