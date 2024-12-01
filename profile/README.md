@@ -56,3 +56,5 @@ Pour toute question, suggestion ou retour, rejoignez notre **serveur Discord** :
 Ce projet est sous licence **MIT**. Consultez le fichier [LICENSE](LICENSE) pour plus de détails.
 
 --- 
+
+1/12/24 : Je tient à préciser que le serveur est encort en dev ! (repo privés en +)
