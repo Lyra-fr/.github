@@ -57,4 +57,4 @@ Ce projet est sous licence **MIT**. Consultez le fichier [LICENSE](LICENSE) pour
 
 --- 
 
-1/12/24 : Je tient à préciser que le serveur est encort en dev ! (repo privés en +)
+15/12/24 : Je tient à préciser que le serveur est encort en dev ! (repo privés en +)
